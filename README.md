@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  RANDY LAMBERT PMP MBA
 i am currently working on learning AI and applying it to Project Management<br>I  am looking to collaborate with Project Managers interested in AI.<br>I am currently learning RAG, MCP, prompt engineering<br>Ask me about Project Management.
 
 
